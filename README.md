@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 * Set your own environment variables.
 * Set your own MongoDB Atlas database and collection.
-* Run `python3 main.py`.
+* Run `python main.py`.
 
 
 <div align="center">
